@@ -1,4 +1,5 @@
 Bases -
+	
 	Base -
 		Steel Legion Drab (citadel)
 	Dry brush - 
@@ -12,6 +13,7 @@ Bases -
 
 
 Zealot
+	
 	Prime - 
 		Chaos Black (Citadel)
 	Drybrush/airbrush -
