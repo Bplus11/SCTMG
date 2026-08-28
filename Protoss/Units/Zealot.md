@@ -7,7 +7,7 @@ Bases -
 		Karak Stone (Citadel)
 
 	Layer - 
-	Militarum Green (Citadel Contrast)
+		Militarum Green (Citadel Contrast)
 
 	Tufts 
 
