@@ -1,11 +1,14 @@
-Prime - 
-	Chaos Black (Citadel)
-Drybrush/airbrush -
-	Thornwood Green (P3)
-	Mortarion Green (Citadel)
-	Dark Battle Dress (Army Painter)
+Artanis
+
+	Prime - 
+		Chaos Black (Citadel)
+	Drybrush/airbrush -
+		Thornwood Green (P3)
+		Mortarion Green (Citadel)
+		Dark Battle Dress (Army Painter)
 
 Armor 
+	
 	Base - 
 		Dragon's Gold (Two Thin Coats)
 		Retributer Gold (Citadel)
@@ -23,7 +26,7 @@ Armor
 	Shade - 
 		Reikland Fleshshade (Citadel) thinned down
 		
-Skin
+	Skin
 	Layer -
 		Wolf Gray (Two Thin Coats)
 		Russ Grey (Citadel)
@@ -32,7 +35,7 @@ Skin
 		Ice Yellow (AK Interative)
 		Ice Yellow (Army Painter)
 		
-Hooves
+	Hooves
 	Layer - 
 		Sandstone (Two Thin Coats)
 	Highlight -
@@ -42,7 +45,7 @@ Hooves
 	Shade -
 		Agrax Earthshade (Citadel)
 		
-Braid
+	Braid
 	Layer -
 		Incubus Purple (Two Thin Coats)
 		Warpfiend Grey (Citadel)
@@ -52,7 +55,7 @@ Braid
 		Slaanesh Grey (Citadel)
 		Cold Flesh (Vallejo)
 		
-Gems 
+	Gems 
 	Base -
 		Bold Titanium White (Pro acryl)
 		Talassar Blue (Citadel Contrast)
