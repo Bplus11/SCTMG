@@ -36,3 +36,10 @@ Pylon -
 			Obsidian Black (Vallejo)
 		Shade - 
 			Reikland Fleshshade (Citadel) thinned down
+
+	Blue Stripes -
+		Base -
+			Mcragge Blue (Citadel) 
+		Layer/Edge -
+			Elysium Blue (Two Thin Coats)
+			 
