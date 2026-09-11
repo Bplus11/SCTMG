@@ -10,26 +10,24 @@ Artanis
 Armor 
 	
 	Base - 
-		Dragon's Gold (Two Thin Coats)
-		Retributer Gold (Citadel)
-		Greedy Gold (Army Painter)
+		Iron Hands Steel (Citadel)
 	Shade -
-		Gore Grunta Fur (Citadel Contrast) - Thin with Contrast Medium
+		Bascillacarnum Grey 1:3 Contrast Medium
 	Layer (Main panels) -
-		Dragon's Gold (Two Thin Coats)
-		Retributer Gold (Citadel)
-		Greedy Gold (Army Painter)
-	Layer (Raised panels) -	
 		White Gold (Pro Acryl/Monument Hobbies)
 		Plate Mail Metal (Army Painter)
 		Obsidian Black (Vallejo)
+	Layer (Raised panels) -	
+	
 	Shade - 
-		Reikland Fleshshade (Citadel) thinned down
+		
 		
 	Skin
 	Layer -
 		Wolf Gray (Two Thin Coats)
 		Russ Grey (Citadel)
+	Shade -
+		Thornwood Green 1:2 Contrast Medium
 	Highlight -
 		Mix Previous layer with
 		Ice Yellow (AK Interative)
@@ -56,6 +54,7 @@ Armor
 		Cold Flesh (Vallejo)
 		
 	Gems 
-	Base -
-		Bold Titanium White (Pro acryl)
-		Talassar Blue (Citadel Contrast)
+		Base -
+			Bold Titanium White (Pro acryl)
+		Layer - 
+			Talassar Blue (Citadel Contrast)
