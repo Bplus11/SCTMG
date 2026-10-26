@@ -5,7 +5,6 @@ Bases -
 	Dry brush - 
 		Temple Stone (Two Thin Coats)
 		Karak Stone (Citadel)
-
 	Layer - 
 		Militarum Green (Citadel Contrast)
 
@@ -14,11 +13,11 @@ Bases -
 Armor -
 	
 	Prime - 
-		Chaos Black (Citadel)
+			Chaos Black (Citadel)
 	Drybrush/airbrush -
-		Thornwood Green (P3)
-		Mortarion Green (Citadel)
-		Dark Battle Dress (Army Painter)
+			Thornwood Green (P3)
+			Mortarion Green (Citadel)
+			Dark Battle Dress (Army Painter)
 	Base - 
 			Dragon's Gold (Two Thin Coats)
 			Retributer Gold (Citadel)
