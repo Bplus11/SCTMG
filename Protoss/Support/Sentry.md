@@ -1,17 +1,18 @@
 Bases -
 
-Base -
-	Steel Legion Drab (citadel)
-Dry brush - 
-	Temple Stone (Two Thin Coats)
-	Karak Stone (Citadel)
+	Base -
+		Steel Legion Drab (citadel)
+	Dry brush - 
+		Temple Stone (Two Thin Coats)
+		Karak Stone (Citadel)
 
-Layer - 
-	Militarum Green (Citadel Contrast)
+	Layer - 
+		Militarum Green (Citadel Contrast)
 
-Tufts 
+	Tufts 
 
 Armor -
+	
 	Prime - 
 		Chaos Black (Citadel)
 	Drybrush/airbrush -
